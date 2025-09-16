@@ -8,6 +8,7 @@
 - Nombre de la empresa: Gatitospokemon
 
 ### 1. Modelo Entidad-Relación (E/R)
+* algo pasó con el archivo .svg que no me mostraba la extensión, así que me aseguré de que el .png se viera bien igual.
 <!-- Inserta aquí tu diagrama ER. Usa el formato svg para evitar la perdida de calidad. Reemplaza "diagrama.svg" por la ruta a tu archivo -->
 
 ![Diagrama E/R](modeloerbddE1.drawio.png)
